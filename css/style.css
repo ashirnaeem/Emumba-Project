@@ -162,6 +162,9 @@ nav {
  color: #363636;
  font-size: 11px;
 }
+.video-logo{
+  display: flex;
+}
 .video-section p{
     line-height: 23px;
     text-align: center;
